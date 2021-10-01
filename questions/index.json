@@ -3867,4 +3867,14 @@
        "d": "None of these",
        "answer": "c"	
        }
+	{
+       "id": 390,
+       "difficulty": 2,
+       "question": "What is part of a database that holds only one type of information?",
+       "a": "Report",
+       "b": "Field",
+       "c": "Record",
+       "d": "File",
+       "answer": "b"	
+       }
 ]
